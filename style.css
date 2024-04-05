@@ -1,0 +1,18 @@
+h2{
+    font-family: sans-serif;
+    color: cadetblue;
+    position: relative;
+    left: 500;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
+
+a{
+    color: cadetblue;
+    font-family: sans-serif;
+    background-color: rgba(255, 0, 0, 0);
+}
